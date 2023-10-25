@@ -1,0 +1,22 @@
+.text{
+
+color: beige;
+font-size: 5rem;
+
+
+}
+
+
+.container{
+
+    height: 200px;
+    width: auto;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+  
+  }
+  
